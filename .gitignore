@@ -1,3 +1,10 @@
+/.idea/
+/.gradle/
+/.mwn/
+/build/
+/build/classes/java/main/
+/build/classes/java/test/
+
 # Compiled class file
 *.class
 
